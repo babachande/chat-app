@@ -22,3 +22,4 @@ module ChatApp
       g.test_frame
   end
 end
+end
