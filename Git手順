@@ -1,0 +1,23 @@
+ローカル                              リモート
+master(ver1)                         master(ver1)
+
+①トピックブランチ作成
+master(ver1)  topic(ver1)            master(ver1)
+
+②Publish Branchをクリック
+リモート上にもトピックブランチが作成される
+master(ver1)  topic(ver1)            master(ver1)  topic(ver1)
+
+③トピックブランチ上で機能を追加＆コミット
+master(ver1)  topic(ver2)            master(ver1)  topic(ver1)
+
+④Pushをクリック
+master(ver1)  topic(ver2)            master(ver1)  topic(ver2)
+
+⑤プルリクエストを作成
+
+
+
+
+
+master(ver2)                         master(ver2)
