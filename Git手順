@@ -16,8 +16,8 @@ master(ver1)  topic(ver2)            master(ver1)  topic(ver2)
 
 ⑤プルリクエストを作成
 
+⑥マージをする
+master(ver1)  topic(ver2)            master(ver2)  topic(ver2)
 
-
-
-
+⑦マスターブランチでプルをする
 master(ver2)                         master(ver2)
