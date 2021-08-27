@@ -21,3 +21,13 @@ master(ver1)  topic(ver2)            master(ver2)  topic(ver2)
 
 ⑦マスターブランチでプルをする
 master(ver2)                         master(ver2)
+
+
+
+
+
+master
+userある  roomない
+
+チャットルーム管理機能の実装
+userない  roomある
